@@ -1,11 +1,8 @@
 # README
 
-##Tecs 
-- Ruby
+## Tecs 
+- Ruby v2.6.5
 - Ruby on Rails 
-
-* Ruby version
-2.6.5
 
 # rails_admin
  Uma aplicação rails usando o rails admin - Estudo Ruby
